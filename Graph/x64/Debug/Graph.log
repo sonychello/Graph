@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\sofya\OneDrive\Desktop\АиП, практика\Graph\function.h(62,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\sofya\OneDrive\Desktop\АиП, практика\Graph\function.h(116,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  Graph.vcxproj -> C:\Users\sofya\OneDrive\Desktop\АиП, практика\Graph\x64\Debug\Graph.exe
